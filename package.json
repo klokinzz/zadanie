@@ -1,7 +1,7 @@
 {
   "name": "lab15",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/klokinzz/zadanie.git",
   "dependencies": {
     "normalize.css": "^8.0.1",
