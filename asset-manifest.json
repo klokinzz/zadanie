@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/klokinzz/zadanie.git/static/css/main.9946d2b5.css",
-    "main.js": "/klokinzz/zadanie.git/static/js/main.2ba74387.js",
-    "index.html": "/klokinzz/zadanie.git/index.html",
-    "main.9946d2b5.css.map": "/klokinzz/zadanie.git/static/css/main.9946d2b5.css.map",
-    "main.2ba74387.js.map": "/klokinzz/zadanie.git/static/js/main.2ba74387.js.map"
+    "main.css": "./static/css/main.9946d2b5.css",
+    "main.js": "./static/js/main.2ba74387.js",
+    "index.html": "./index.html",
+    "main.9946d2b5.css.map": "./static/css/main.9946d2b5.css.map",
+    "main.2ba74387.js.map": "./static/js/main.2ba74387.js.map"
   },
   "entrypoints": [
     "static/css/main.9946d2b5.css",
